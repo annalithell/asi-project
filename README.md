@@ -1,6 +1,9 @@
 ### Dropout as a Bayesian Approximation: An interpretation of Gal and Ghahramani (2016)
 
-This project was conducted as part of the 2025 edition of the course *Advanced Statistical Inference* at EURECOM. I've decided to reproduce the results from the paper *Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning*, published in 2016 by Gal and Ghahramani. The project consists of two parts:
+This mini-project was conducted as part of the 2025 edition of the course *Advanced Statistical Inference* at EURECOM. 
+I've decided to reproduce the results from the paper *Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning*, published in 2016 by Gal and Ghahramani. 
+
+The project consists of two parts:
 
 1. **asi_project.pdf**: Contains the report of the project, aiming to explain key concepts from the paper, how they were interpreted in code and the results obtained. **Not included as part of this GitHub repo.**
 2. **dropout_bayesian_approximation.ipynb**: A Jupyter notebook containing selected and recreated parts described in the original paper. 
